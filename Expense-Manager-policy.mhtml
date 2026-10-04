@@ -1,0 +1,178 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://expense.excellentdeals.in/Privacy-Policy.html
+Subject: Privacy Policy - Expense Manager
+Date: Sun, 04 Oct 2026 07:07:44 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--0WdiHETtqZgmSfH9uOm8WjvNjBIQxltTq2xivK2Idv----"
+
+
+------MultipartBoundary--0WdiHETtqZgmSfH9uOm8WjvNjBIQxltTq2xivK2Idv----
+Content-Type: text/html
+Content-ID: <frame-04471FD7E95A723F771F482487B78663@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://expense.excellentdeals.in/Privacy-Policy.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-7ab3e52c-a9f1-4470-bc7e-2f88d2566b46@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Privacy Policy - Expense Manager</title>
+   =20
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class=3D"header-content">
+            <div class=3D"logo">=F0=9F=92=B0 Expense Manager</div>
+            <a class=3D"back-link">=E2=86=90 Back to Home</a>
+        </div>
+    </header>
+
+    <!-- Privacy Policy Content -->
+    <div class=3D"policy-container">
+        <h1>Privacy Policy</h1>
+
+        <h2>Our Commitment to Your Privacy</h2>
+        <p>At Expense Manager, we believe in complete transparency and your=
+ right to privacy. This Privacy Policy outlines how we handle your informat=
+ion.</p>
+
+        <h2>What We Don't Collect</h2>
+        <div class=3D"highlight-box">
+            We do NOT collect, store, or process any Personal Information (=
+PI) from our users. This includes but is not limited to: names, email addre=
+sses, phone numbers, home addresses, or identification documents.
+        </div>
+
+        <h2>Data Storage</h2>
+        <p>All expense data you enter in Expense Manager is stored locally =
+on your device. We do not transmit, store, or access this data on external =
+servers. Your financial information remains entirely in your control.</p>
+
+        <h2>No Third-Party Sharing</h2>
+        <p>Since we don't collect personal information, there is nothing to=
+ share with third parties. We never sell, trade, or share your data with ad=
+vertisers, analytics companies, or any other external entities.</p>
+
+        <h2>Cookies and Tracking</h2>
+        <p>We do not use cookies, pixel tags, or any tracking technologies =
+to monitor your behavior or collect information about you.</p>
+
+        <h2>Security</h2>
+        <p>Your expense data is protected by your device's built-in securit=
+y. We recommend:</p>
+        <ul>
+            <li>Using strong device passwords or biometric authentication</=
+li>
+            <li>Keeping your device operating system updated</li>
+            <li>Regularly backing up your important financial data</li>
+        </ul>
+
+        <h2>Your Rights</h2>
+        <p>Since we don't collect personal data:</p>
+        <ul>
+            <li>You have nothing to request deletion of</li>
+            <li>You have complete control over all your expense records</li=
+>
+            <li>You can delete the app and all associated data at any time<=
+/li>
+        </ul>
+
+        <h2>Changes to This Policy</h2>
+        <p>We may update this Privacy Policy from time to time. Any changes=
+ will be reflected in the application. Your continued use of Expense Manage=
+r signifies your acceptance of our policy.</p>
+
+        <h2>Contact Us</h2>
+        <p>For any questions or concerns regarding this Privacy Policy or o=
+ur practices, please don't hesitate to reach out. We're committed to addres=
+sing your privacy concerns promptly.</p>
+
+        <div class=3D"highlight-box">
+            Remember: Your privacy is paramount. Expense Manager is designe=
+d with privacy-first principles to ensure your financial information remain=
+s completely under your control.
+        </div>
+
+        <div class=3D"last-updated">
+            <strong>Last Updated:</strong> December 22, 2025
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>=C2=A9 2025 Expense Manager. All rights reserved. Your privacy i=
+s our priority.</p>
+    </footer>
+
+   =20
+
+
+</body></html>
+------MultipartBoundary--0WdiHETtqZgmSfH9uOm8WjvNjBIQxltTq2xivK2Idv----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-7ab3e52c-a9f1-4470-bc7e-2f88d2566b46@mhtml.blink
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, =
+sans-serif; background: rgb(245, 247, 250); color: rgb(26, 26, 26); }
+
+header { background: linear-gradient(135deg, rgb(111, 66, 193) 0%, rgb(90, =
+50, 163) 100%); color: white; padding: 20px 0px; box-shadow: rgba(0, 0, 0, =
+0.1) 0px 2px 8px; }
+
+.header-content { max-width: 1200px; margin: 0px auto; padding: 0px 20px; d=
+isplay: flex; justify-content: space-between; align-items: center; }
+
+.logo { font-size: 24px; font-weight: 700; letter-spacing: -0.5px; }
+
+.back-link { color: white; text-decoration: none; font-weight: 500; transit=
+ion: opacity 0.3s; cursor: pointer; }
+
+.back-link:hover { opacity: 0.8; }
+
+.policy-container { max-width: 900px; margin: 40px auto; padding: 40px 20px=
+; background: white; border-radius: 12px; box-shadow: rgba(0, 0, 0, 0.08) 0=
+px 4px 12px; }
+
+.policy-container h1 { color: rgb(111, 66, 193); font-size: 36px; margin-bo=
+ttom: 30px; text-align: center; }
+
+.policy-container h2 { color: rgb(90, 50, 163); font-size: 22px; margin-top=
+: 35px; margin-bottom: 15px; border-left: 4px solid rgb(111, 66, 193); padd=
+ing-left: 15px; }
+
+.policy-container p { color: rgb(68, 68, 68); line-height: 1.8; margin-bott=
+om: 15px; font-size: 15px; }
+
+.policy-container ul { margin: 15px 0px 15px 30px; color: rgb(68, 68, 68); =
+line-height: 1.8; }
+
+.policy-container li { margin-bottom: 10px; }
+
+.highlight-box { background: rgb(240, 230, 255); border-left: 4px solid rgb=
+(111, 66, 193); padding: 20px; border-radius: 8px; margin: 25px 0px; color:=
+ rgb(90, 50, 163); font-weight: 500; }
+
+.last-updated { text-align: center; margin-top: 40px; color: rgb(153, 153, =
+153); font-size: 14px; }
+
+footer { background: rgb(44, 62, 80); color: white; text-align: center; pad=
+ding: 30px 20px; }
+
+footer p { margin: 0px; font-size: 14px; opacity: 0.9; }
+
+@media (max-width: 768px) {
+  .header-content { flex-direction: column; gap: 15px; }
+  .policy-container h1 { font-size: 28px; }
+  .policy-container h2 { font-size: 18px; }
+}
+------MultipartBoundary--0WdiHETtqZgmSfH9uOm8WjvNjBIQxltTq2xivK2Idv------
